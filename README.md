@@ -4,35 +4,32 @@ Iniciei minha carreira na área de tecnologia como estagiário de testes e quali
 função na qual fui responsável por testes manuais para identificação e prevenção de bugs, bem
 como por analisar métricas de qualidade. 	
 
-Ao longo do estágio, além de identificar bugs, passei a corrigi-los, em especial aqueles
-relacionados ao front-end da aplicação web.
+Ao longo do estágio, além de identificar bugs, passei a corrigi-los, em especial aqueles relacionados ao front-end da aplicação web.
 
 Pontualmente, realizei também ajustes na infraestrutura da aplicação, hospedada na AWS.
 
-Após um ano de estágio, fui efetivado como Assistente de Sistemas, desempenhando as mesmas
-funções.
+Após um ano de estágio, fui efetivado como Assistente de Sistemas, desempenhando as mesmas funções.
 
 Desde maio de 2020 atuo como consultor júnior na [Beijaflore Brasil](https://www.beijaflore.com/pt/).
 
 Possuo conhecimento em desenvolvimento back-end com PHP, Java e Spring Boot. As tecnologias front-end que conheço são HTML5, CSS3, Javascript (ES6), React entre outras. 
 
-Antes de trabalhar com Tecnologia, atuei nas áreas de atendimento, vendas, serviços
-administrativos e música.
+Antes de trabalhar com Tecnologia, atuei nas áreas de atendimento, vendas, serviços administrativos e música.
 
 ### Portfólio:
 
-- [https://github.com/RaulDionisiodev](https://github.com/RaulDionisiodev) 
-   Códigos-fonte de projetos e estudos em geral.
+- [https://github.com/RaulDionisiodev](https://github.com/RaulDionisiodev)  
+   Códigos-fonte de projetos e estudos em geral.  
    Stack: HTML, CSS, Javascript, PHP, Angular, React.
 
 - [http://agendador-unicarioca.herokuapp.com/](http://agendador-unicarioca.herokuapp.com/)  
    Aplicação front-end criada no Projeto Matrix, para agendamento de provas da Universidade.
-   Neste projeto, atuei como testador, desenvolvendo e executando casos de testes, para assegurar que a aplicação cumpria os requisitos solicitados pelos Product Owners.
-   Stack: HTML, CSS, JS, VueJS.
+   Neste projeto, atuei como testador, desenvolvendo e executando casos de testes, para assegurar que a aplicação cumpria os requisitos solicitados pelos Product  Owners.  
+   Stack: HTML, CSS, JS, VueJS.  
    Saiba mais sobre o [Projeto Matrix](https://unicariocadev.github.io/ProjetoMatrix/) e o grupo [Unicariocadev](https://github.com/UnicariocaDev)
 
 - [http://ondetemgrupo.ga/](http://ondetemgrupo.ga/)  
-   Catálogo de Grupos de Oração do Movimento RCC da Igreja Católica no Estado do Rio de Janeiro.
+   Catálogo de Grupos de Oração do Movimento RCC da Igreja Católica no Estado do Rio de Janeiro.  
    Stack: HTML, CSS e PHP
 
 ### Contatos:
@@ -41,35 +38,36 @@ administrativos e música.
 
 
 
-## Hello! My name is Raul, i am Junior Web Developer 🇬🇧
+## Hello! My name is Raul, I am Junior Web Developer 🇬🇧
 
-I Started my carrer on tech as intern of QA where i was responsible for manual tests to identify and prevent bugs just as review of quality metrics.
+I started my career on tech as an intern of QA where I was responsible for manual tests to identify and prevent bugs, just as review of quality metrics.
 
-During the internship, besides identify bugs, i started to corrtect them, especialy the bugs related to front-end aplication.
+During the internship, in addition to identifying bugs I corrected them - especially those related to the front-end web app. 
 
-Ocassionaly, i realized adjustments on the infrastructure of aplication hosted on AWS
+Occasionally, I also adjusted the app’s infrastructure (hosted on AWS).
 
-Whem i was 1 year of iternship i was hired as system assistant with the same responsabilites.
+After 1 year of internship, I became a System Assistant with identical tasks. 
 
-Since 2020 may i work as junior consultant at [Beijaflore Brasil](https://www.beijaflore.com/pt/). 
+Since May 2020 I work as Junior Consultant at [Beijaflore Brasil](https://www.beijaflore.com/pt/). 
 
-I have knowledge on back-end development with PHP, Java and Spring boot and front-end development with HTML5, CSS3, Javascript (ES6), React among other tecnologies.
+My field is back-end development with PHP and Java (Spring). As a client-side developer I use HTML5, CSS3, JavaScript (ES6), React and various other technologies. 
 
-Before i went to work on tech industrie i worked with sales, adminstrative assistant, atendant and music.
+Before working at the tech industry I did customer service, sales and administration services; and played an instrument (i.e. the guitar).
 
 ### Portfolio:
 
 - [https://github.com/RaulDionisiodev](https://github.com/RaulDionisiodev)  
-    Source codes of projects and general studies.
-    Stack: HTML, CSS, Javascript, PHP, Angular, React.
-
+    Source codes of projects and general studies.  
+    Stack: HTML, CSS, Javascript, PHP, Angular, React.  
+    
 - [http://agendador-unicarioca.herokuapp.com/](http://agendador-unicarioca.herokuapp.com/)  
-    Front-End Aplication developed on Matrix Project. A scheduling system of tests of university. In this project i worked as QA, creating and executing manual tests to assurance which the aplication performs as required by Product Owners.
-    Stack: HTML, CSS, JS, VueJS.
-    Know more about the [Matrix Project](https://unicariocadev.github.io/ProjetoMatrix/) and the [Unicariocadev group](https://github.com/UnicariocaDev)
+   Front-End app developed through the Matrix Project, which function is to schedule tests and exams for university.
+   On behalf of this project I worked as a tester, developing and executing tests to assure Product Owners’ requirements are fulfilled.  
+   Stack: HTML, CSS, JS, VueJS.   
+   More info about about the [Matrix Project](https://unicariocadev.github.io/ProjetoMatrix/) and the [Unicariocadev group](https://github.com/UnicariocaDev)
 
 - [http://ondetemgrupo.ga/](http://ondetemgrupo.ga/)  
-   A little list of catholics prayer groups in Rio de Janeiro.
+   A small list of Catholic praying groups in Rio de Janeiro.  
    Stack: HTML, CSS e PHP.
 
 
