@@ -68,7 +68,7 @@ Before working at the tech industry I did customer service, sales and administra
 
 - [http://ondetemgrupo.ga/](http://ondetemgrupo.ga/)  
    A small list of Catholic praying groups in Rio de Janeiro.  
-   Stack: HTML, CSS e PHP.
+   Stack: HTML, CSS, PHP.
 
 
 ### Contacts:
