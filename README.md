@@ -28,7 +28,7 @@ Antes de trabalhar com Tecnologia, atuei nas áreas de atendimento, vendas, serv
    Stack: HTML, CSS, JS, VueJS.  
    Saiba mais sobre o [Projeto Matrix](https://unicariocadev.github.io/ProjetoMatrix/) e o grupo [Unicariocadev](https://github.com/UnicariocaDev)
 
--  Onde Tem Grupo - RJ 
+-  Onde Tem Grupo - RJ   
    Catálogo de Grupos de Oração do Movimento RCC da Igreja Católica no Estado do Rio de Janeiro.  
    Stack: HTML, CSS e PHP
 
@@ -66,7 +66,7 @@ Before working at the tech industry I did customer service, sales and administra
    Stack: HTML, CSS, JS, VueJS.   
    More info about about the [Matrix Project](https://unicariocadev.github.io/ProjetoMatrix/) and the [Unicariocadev group](https://github.com/UnicariocaDev)
 
--  Onde Tem Grupo - RJ 
+-  Onde Tem Grupo - RJ   
    A small list of Catholic praying groups in Rio de Janeiro.  
    Stack: HTML, CSS, PHP.
 
