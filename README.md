@@ -1,4 +1,4 @@
-## Olá, meu nome é Raul e sou desenvolvedor Web Júnior 🇧🇷
+## Olá, meu nome é Raul e sou desenvolvedor Web 🇧🇷
 
 Iniciei minha carreira na área de tecnologia como estagiário de testes e qualidade de software,
 função na qual fui responsável por testes manuais para identificação e prevenção de bugs, bem
@@ -38,7 +38,7 @@ Antes de trabalhar com Tecnologia, atuei nas áreas de atendimento, vendas, serv
 
 
 
-## Hello! My name is Raul, I am Junior Web Developer 🇬🇧
+## Hello! My name is Raul, I am Web Developer 🇬🇧
 
 I started my career on tech as an intern of QA where I was responsible for manual tests to identify and prevent bugs, just as review of quality metrics.
 
