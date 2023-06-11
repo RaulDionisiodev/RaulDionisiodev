@@ -1,36 +1,12 @@
-## Olá, meu nome é Raul e sou desenvolvedor Web 🇧🇷
+## Olá, meu nome é Raul e sou desenvolvedor Web ![Português](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png)
 
-Iniciei minha carreira na área de tecnologia como estagiário de testes e qualidade de software,
-função na qual fui responsável por testes manuais para identificação e prevenção de bugs, bem
-como por analisar métricas de qualidade. 	
+Como Desenvolvedor de Software com Bacharelado em Ciência da Computação, eu adquiri uma valiosa experiência trabalhando com Java, Spring Boot, Javascript, Mysql, Postgres, Cypress e outras tecnologias de ponta. Sou apaixonado por usar minhas habilidades para resolver problemas complexos e desenvolver soluções inovadoras que atendam às necessidades dos meus clientes.
 
-Ao longo do estágio, além de identificar bugs, passei a corrigi-los, em especial aqueles relacionados ao front-end da aplicação web.
+Ao longo da minha carreira, tenho demonstrado um forte compromisso com a aprendizagem contínua e o desenvolvimento profissional. Estou sempre disposto para explorar novas tecnologias, estruturas e metodologias, e tenho um histórico de aprendizagem rápida de novas ferramentas e técnicas.
 
-Pontualmente, realizei também ajustes na infraestrutura da aplicação, hospedada na AWS.
+Estou acostumado a trabalhar em estreita colaboração com equipes multifuncionais para entregar soluções de software de alta qualidade. Seja construindo novos recursos, otimizando o desempenho ou solucionando problemas complexos, estou sempre pronto para um desafio e motivado para entregar resultados que superem as expectativas.
 
-Após um ano de estágio, fui efetivado como Assistente de Sistemas, desempenhando as mesmas funções.
-
-Desde maio de 2020 atuo como consultor júnior na [Beijaflore Brasil](https://www.beijaflore.com/pt/).
-
-Possuo conhecimento em desenvolvimento back-end com PHP, Java e Spring Boot. As tecnologias front-end que conheço são HTML5, CSS3, Javascript (ES6), React entre outras. 
-
-Antes de trabalhar com Tecnologia, atuei nas áreas de atendimento, vendas, serviços administrativos e música.
-
-### Portfólio:
-
-- [https://github.com/RaulDionisiodev](https://github.com/RaulDionisiodev)  
-   Códigos-fonte de projetos e estudos em geral.  
-   Stack: HTML, CSS, Javascript, PHP, Angular, React.
-
-- [http://agendador-unicarioca.herokuapp.com/](http://agendador-unicarioca.herokuapp.com/)  
-   Aplicação front-end criada no Projeto Matrix, para agendamento de provas da Universidade.
-   Neste projeto, atuei como testador, desenvolvendo e executando casos de testes, para assegurar que a aplicação cumpria os requisitos solicitados pelos Product  Owners.  
-   Stack: HTML, CSS, JS, VueJS.  
-   Saiba mais sobre o [Projeto Matrix](https://unicariocadev.github.io/ProjetoMatrix/) e o grupo [Unicariocadev](https://github.com/UnicariocaDev)
-
--  Onde Tem Grupo - RJ   
-   Catálogo de Grupos de Oração do Movimento RCC da Igreja Católica no Estado do Rio de Janeiro.  
-   Stack: HTML, CSS e PHP
+Se você está procurando um Desenvolvedor de Software dedicado e orientado a resultados, com paixão pela inovação e um forte compromisso com a aprendizagem contínua, não hesite em entrar em contato comigo. Estou animado para explorar novas oportunidades e confiante de que tenho as habilidades e experiência para fazer uma contribuição significativa para a sua organização.
 
 ### Contatos:
 
@@ -38,37 +14,15 @@ Antes de trabalhar com Tecnologia, atuei nas áreas de atendimento, vendas, serv
 
 
 
-## Hello! My name is Raul, I am Web Developer 🇬🇧
+## Hello! My name is Raul, I am Web Developer ![English](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/gb.png)
 
-I started my career on tech as an intern of QA where I was responsible for manual tests to identify and prevent bugs, just as review of quality metrics.
+As a Software Developer with a Bachelor's Degree in Computer Science, I have gained valuable experience working with Java, Spring Boot, Javascript, Mysql, Postgres, Cypress, and other cutting-edge technologies. I am passionate about using my skills to solve complex problems and develop innovative solutions that meet the needs of my clients.
 
-During the internship, in addition to identifying bugs I corrected them - especially those related to the front-end web app. 
+Throughout my career, I have demonstrated a strong commitment to continuous learning and professional development. I am always willing to explore new technologies, frameworks, and methodologies, and I have a track record of quickly mastering new tools and techniques.
 
-Occasionally, I also adjusted the app’s infrastructure (hosted on AWS).
+I’m used to working closely with cross-functional teams to deliver high-quality software solutions. Whether it's building new features, optimizing performance, or troubleshooting complex issues, I am always up for a challenge and am driven to deliver results that exceed expectations.
 
-After 1 year of internship, I became a System Assistant with identical tasks. 
-
-Since May 2020 I work as Junior Consultant at [Beijaflore Brasil](https://www.beijaflore.com/pt/). 
-
-My field is back-end development with PHP and Java (Spring). As a client-side developer I use HTML5, CSS3, JavaScript (ES6), React and various other technologies. 
-
-Before working at the tech industry I did customer service, sales and administration services; and played an instrument (i.e. the guitar).
-
-### Portfolio:
-
-- [https://github.com/RaulDionisiodev](https://github.com/RaulDionisiodev)  
-    Source codes of projects and general studies.  
-    Stack: HTML, CSS, Javascript, PHP, Angular, React.  
-    
-- [http://agendador-unicarioca.herokuapp.com/](http://agendador-unicarioca.herokuapp.com/)  
-   Front-End app developed through the Matrix Project, which function is to schedule tests and exams for university.
-   On behalf of this project I worked as a tester, developing and executing tests to assure Product Owners’ requirements are fulfilled.  
-   Stack: HTML, CSS, JS, VueJS.   
-   More info about about the [Matrix Project](https://unicariocadev.github.io/ProjetoMatrix/) and the [Unicariocadev group](https://github.com/UnicariocaDev)
-
--  Onde Tem Grupo - RJ   
-   A small list of Catholic praying groups in Rio de Janeiro.  
-   Stack: HTML, CSS, PHP.
+If you are looking for a dedicated, results-driven Software Developer with a passion for innovation and a strong commitment to continuous learning, please don't hesitate to reach out to me. I am excited to explore new opportunities and am confident that I have the skills and experience to make a meaningful contribution to your organization.
 
 
 ### Contacts:
